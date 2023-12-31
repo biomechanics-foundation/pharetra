@@ -1,0 +1,17 @@
+[package]
+name = "pharetra"
+version = "0.0.1"
+authors = ["Claire V. Hammond <me@cvhammond.com>", "Spencer T. Williams <stwilliamsmail@gmail.com>"]
+edition = "2021"
+categories = ["data-structures", "mathematics", "science::robotics", "simulation", "science"]
+description = "Utility data structures and algorithms for Chiron."
+license = "MIT OR Apache-2.0"
+homepage = "https://chiron.rs"
+repository = "https://github.com/biomechanics-foundation/pharetra"
+readme = "README.md"
+keywords = ["physics", "mathematics", "numerical-methods", "scientific-computing", "data-structures"]
+
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
